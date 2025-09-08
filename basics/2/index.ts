@@ -1,6 +1,6 @@
 // let name = 'Tek'
 
-function printName(name: string){
+const printName= (name: string) => {
     console.log(name);
 }
 

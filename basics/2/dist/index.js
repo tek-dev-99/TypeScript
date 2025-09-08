@@ -1,8 +1,7 @@
-"use strict";
 // let name = 'Tek'
-Object.defineProperty(exports, "__esModule", { value: true });
-function printName(name) {
+const printName = (name) => {
     console.log(name);
-}
+};
 printName('Tek');
+export {};
 //# sourceMappingURL=index.js.map
